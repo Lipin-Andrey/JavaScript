@@ -1,0 +1,24 @@
+.store{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.availableProducts{
+    display: flex;
+
+}
+button{
+    background-color: bisque;
+    margin-right: 5px;
+}
+p{
+    color: blue;
+}
+.sdf{
+    display: flex;
+   
+}
+.basket{
+    margin-right: 20px;
+}
