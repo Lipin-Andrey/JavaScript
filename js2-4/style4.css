@@ -1,0 +1,16 @@
+#button , #btn-text {
+  padding: 15px;
+  border: none;
+  border-radius: 10px;
+  background-color: lightseagreen;
+  margin: 20px 100px;
+  color: #fff;
+}
+
+.container {
+  display: none;
+}
+
+
+
+
